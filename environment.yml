@@ -3,7 +3,7 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=3.7
+  - python=>3.8
   - cachetools>=1.0.0
   - cgen
   - coverage
@@ -30,6 +30,6 @@ dependencies:
   - nbval
   - scikit-learn
   - pykdtree
-  - parcels
+  - parcels>=2.3.0
   - cartopy
   - ffmpeg
