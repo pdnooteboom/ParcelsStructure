@@ -31,4 +31,4 @@ dependencies:
   - nbval
   - scikit-learn
   - pykdtree
-
+  - progressbar
