@@ -7,7 +7,6 @@ dependencies:
   - cachetools>=1.0.0
   - cgen
   - coverage
-  - parcels
   - ffmpeg>=3.2.3
   - flake8>=2.1.0
   - git
@@ -31,4 +30,6 @@ dependencies:
   - nbval
   - scikit-learn
   - pykdtree
-  - progressbar
+  - parcels
+  - cartopy
+  - ffmpeg
