@@ -30,6 +30,6 @@ dependencies:
   - nbval
   - scikit-learn
   - pykdtree
-  - parcels=2.1.0
+  - parcels<=2.2.0
   - cartopy
   - ffmpeg
